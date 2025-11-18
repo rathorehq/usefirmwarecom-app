@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "First release of Firmware AI - Agentic AI assistant for writing firmware",
+  "pub_date": "2025-11-18T01:13:00Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVjhHUFVvUUhzSzZmRTRrOGJncmxPMWF5NHhKN1pmL0xWNDEvamhPTWdCa3ZBeGpGU1FlTjhHV01aU1VDdUhLTGFDM2t6TzlXTkZ3NkVZaExxb1dvUnZVdXYwdnJ0RGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNDU3MjMwCWZpbGU6RmlybXdhcmUgQUlfMC4xLjBfYW1kNjQuQXBwSW1hZ2UKOWtqUGRaNVhUVktySk5XSDRqa2NjSXVpZWtEcWYxaEZkaFZneEorUGljMEp5dG9TcXFqZHBWNG1WMXZuQ0R5MVRTVzNkUnNFUVhmQjJCWngxd1Z2Q1E9PQo=",
+      "url": "https://github.com/rathorehq/usefirmwarecom-app/releases/download/v0.1.0/FirmwareAI_0.1.0_amd64.AppImage"
+    }
+  }
+}
