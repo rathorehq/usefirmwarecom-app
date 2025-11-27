@@ -1,6 +1,3 @@
 {
-  "version": "1.0.1",
-  "platforms": {
-    "linux-x86_64": "https://usefirmware.com/brand-assets"
-  }
+  "version": "1.0.0"
 }
